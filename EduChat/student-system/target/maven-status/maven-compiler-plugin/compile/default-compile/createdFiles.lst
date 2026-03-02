@@ -1,0 +1,9 @@
+com\educhat\demo\model\Message.class
+com\educhat\demo\controller\StudentController.class
+com\educhat\demo\service\StudentService.class
+com\educhat\demo\controller\ChatController.class
+com\educhat\demo\model\Student.class
+com\educhat\demo\repository\MessageRepository.class
+com\educhat\demo\StudentSystemApplication.class
+com\educhat\demo\repository\StudentRepository.class
+com\educhat\demo\service\ChatService.class
